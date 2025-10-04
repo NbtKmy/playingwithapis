@@ -7,7 +7,9 @@ requires-python = ">=3.11"
 dependencies = [
     "iiif-prezi>=0.3.0",
     "notebook>=7.4.5",
+    "openai>=2.1.0",
     "pandas>=2.3.2",
+    "pillow>=11.3.0",
     "python-dotenv>=1.1.1",
     "rdflib>=7.1.4",
     "requests>=2.32.5",
